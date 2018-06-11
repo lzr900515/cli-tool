@@ -1,5 +1,5 @@
 {
-  "name": "cli-tool",
+  "name": "lzr-cli-tool",
   "version": "1.0.0",
   "description": "a cli tool which can help coder init and start a project implemented with nodejs",
   "main": "index.js",
