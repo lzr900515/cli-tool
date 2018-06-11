@@ -1,8 +1,9 @@
 {
   "name": "lzr-cli-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a cli tool which can help coder init and start a project implemented with nodejs",
   "main": "index.js",
+  "bin": { "cli": "index.js"},
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
