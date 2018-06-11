@@ -8,7 +8,7 @@ const ora = require('ora');
 const chalk = require('chalk');
 const symbols = require('log-symbols');
 
-program.version('1.0.0', '-v, --version');
+program.version('1.0.3', '-v, --version');
 
 program.command('help')
     .action(function () {
