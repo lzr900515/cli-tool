@@ -1,0 +1,29 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "a cli tool which can help coder init and start a project implemented with nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.0.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzr900515/cli-tool.git"
+  },
+  "author": "lzr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzr900515/cli-tool/issues"
+  },
+  "homepage": "https://github.com/lzr900515/cli-tool#readme"
+}
